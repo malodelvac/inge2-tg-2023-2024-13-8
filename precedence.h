@@ -3,7 +3,7 @@
 
 
 
-/* Structure d'un sommet*/
+/* Structure d un sommet*/
 struct Sommet
 {
     struct Arc* arc;
