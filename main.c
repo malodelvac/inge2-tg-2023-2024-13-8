@@ -1,5 +1,5 @@
 //
-// Created by ferra on 26/11/2023.
+// Create by ferra on 26/11/2023.
 //
 #include <stdio.h>
 int main() {
